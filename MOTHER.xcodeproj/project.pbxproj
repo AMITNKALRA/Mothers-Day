@@ -13,6 +13,20 @@
 		A5275E511AFEEE690052CD3B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5275E501AFEEE690052CD3B /* Images.xcassets */; };
 		A5275E541AFEEE690052CD3B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5275E521AFEEE690052CD3B /* LaunchScreen.xib */; };
 		A5275E601AFEEE690052CD3B /* MOTHERTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5275E5F1AFEEE690052CD3B /* MOTHERTests.swift */; };
+		A5275E6B1AFEEEE60052CD3B /* Mothers-Day-Background-Blue-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5275E6A1AFEEEE60052CD3B /* Mothers-Day-Background-Blue-1.jpg */; };
+		A5275E741AFEFDE70052CD3B /* des.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5275E701AFEFDE70052CD3B /* des.jpg */; };
+		A5275E751AFEFDE70052CD3B /* dub.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5275E711AFEFDE70052CD3B /* dub.jpg */; };
+		A5275E761AFEFDE70052CD3B /* poo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5275E721AFEFDE70052CD3B /* poo.jpg */; };
+		A5275E771AFEFDE70052CD3B /* sol.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5275E731AFEFDE70052CD3B /* sol.jpg */; };
+		A5275E791AFF032A0052CD3B /* Coupons.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5275E781AFF032A0052CD3B /* Coupons.swift */; };
+		A5275E7B1AFF0CA10052CD3B /* Gray.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5275E7A1AFF0CA10052CD3B /* Gray.jpg */; };
+		A5275E801AFF0F510052CD3B /* chores.png in Resources */ = {isa = PBXBuildFile; fileRef = A5275E7C1AFF0F510052CD3B /* chores.png */; };
+		A5275E811AFF0F510052CD3B /* help.png in Resources */ = {isa = PBXBuildFile; fileRef = A5275E7D1AFF0F510052CD3B /* help.png */; };
+		A5275E821AFF0F510052CD3B /* massage.png in Resources */ = {isa = PBXBuildFile; fileRef = A5275E7E1AFF0F510052CD3B /* massage.png */; };
+		A5275E831AFF0F510052CD3B /* microvavle.png in Resources */ = {isa = PBXBuildFile; fileRef = A5275E7F1AFF0F510052CD3B /* microvavle.png */; };
+		A5275E851AFF0FB20052CD3B /* car.png in Resources */ = {isa = PBXBuildFile; fileRef = A5275E841AFF0FB20052CD3B /* car.png */; };
+		A5275E871AFF137F0052CD3B /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = A5275E861AFF137F0052CD3B /* back.png */; };
+		A5275E891AFFEEA00052CD3B /* Poems.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5275E881AFFEEA00052CD3B /* Poems.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +50,20 @@
 		A5275E591AFEEE690052CD3B /* MOTHERTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MOTHERTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5275E5E1AFEEE690052CD3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A5275E5F1AFEEE690052CD3B /* MOTHERTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MOTHERTests.swift; sourceTree = "<group>"; };
+		A5275E6A1AFEEEE60052CD3B /* Mothers-Day-Background-Blue-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mothers-Day-Background-Blue-1.jpg"; sourceTree = "<group>"; };
+		A5275E701AFEFDE70052CD3B /* des.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = des.jpg; sourceTree = "<group>"; };
+		A5275E711AFEFDE70052CD3B /* dub.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dub.jpg; sourceTree = "<group>"; };
+		A5275E721AFEFDE70052CD3B /* poo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = poo.jpg; sourceTree = "<group>"; };
+		A5275E731AFEFDE70052CD3B /* sol.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sol.jpg; sourceTree = "<group>"; };
+		A5275E781AFF032A0052CD3B /* Coupons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coupons.swift; sourceTree = "<group>"; };
+		A5275E7A1AFF0CA10052CD3B /* Gray.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Gray.jpg; sourceTree = "<group>"; };
+		A5275E7C1AFF0F510052CD3B /* chores.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chores.png; sourceTree = "<group>"; };
+		A5275E7D1AFF0F510052CD3B /* help.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = help.png; sourceTree = "<group>"; };
+		A5275E7E1AFF0F510052CD3B /* massage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = massage.png; sourceTree = "<group>"; };
+		A5275E7F1AFF0F510052CD3B /* microvavle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = microvavle.png; sourceTree = "<group>"; };
+		A5275E841AFF0FB20052CD3B /* car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = car.png; sourceTree = "<group>"; };
+		A5275E861AFF137F0052CD3B /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		A5275E881AFFEEA00052CD3B /* Poems.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Poems.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,8 +105,22 @@
 		A5275E461AFEEE690052CD3B /* MOTHER */ = {
 			isa = PBXGroup;
 			children = (
+				A5275E6A1AFEEEE60052CD3B /* Mothers-Day-Background-Blue-1.jpg */,
+				A5275E701AFEFDE70052CD3B /* des.jpg */,
+				A5275E711AFEFDE70052CD3B /* dub.jpg */,
+				A5275E721AFEFDE70052CD3B /* poo.jpg */,
+				A5275E731AFEFDE70052CD3B /* sol.jpg */,
+				A5275E7A1AFF0CA10052CD3B /* Gray.jpg */,
+				A5275E7C1AFF0F510052CD3B /* chores.png */,
+				A5275E7D1AFF0F510052CD3B /* help.png */,
+				A5275E7E1AFF0F510052CD3B /* massage.png */,
+				A5275E7F1AFF0F510052CD3B /* microvavle.png */,
+				A5275E841AFF0FB20052CD3B /* car.png */,
+				A5275E861AFF137F0052CD3B /* back.png */,
 				A5275E491AFEEE690052CD3B /* AppDelegate.swift */,
 				A5275E4B1AFEEE690052CD3B /* ViewController.swift */,
+				A5275E781AFF032A0052CD3B /* Coupons.swift */,
+				A5275E881AFFEEA00052CD3B /* Poems.swift */,
 				A5275E4D1AFEEE690052CD3B /* Main.storyboard */,
 				A5275E501AFEEE690052CD3B /* Images.xcassets */,
 				A5275E521AFEEE690052CD3B /* LaunchScreen.xib */,
@@ -192,9 +234,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5275E761AFEFDE70052CD3B /* poo.jpg in Resources */,
 				A5275E4F1AFEEE690052CD3B /* Main.storyboard in Resources */,
+				A5275E7B1AFF0CA10052CD3B /* Gray.jpg in Resources */,
 				A5275E541AFEEE690052CD3B /* LaunchScreen.xib in Resources */,
 				A5275E511AFEEE690052CD3B /* Images.xcassets in Resources */,
+				A5275E771AFEFDE70052CD3B /* sol.jpg in Resources */,
+				A5275E831AFF0F510052CD3B /* microvavle.png in Resources */,
+				A5275E751AFEFDE70052CD3B /* dub.jpg in Resources */,
+				A5275E821AFF0F510052CD3B /* massage.png in Resources */,
+				A5275E6B1AFEEEE60052CD3B /* Mothers-Day-Background-Blue-1.jpg in Resources */,
+				A5275E741AFEFDE70052CD3B /* des.jpg in Resources */,
+				A5275E871AFF137F0052CD3B /* back.png in Resources */,
+				A5275E851AFF0FB20052CD3B /* car.png in Resources */,
+				A5275E811AFF0F510052CD3B /* help.png in Resources */,
+				A5275E801AFF0F510052CD3B /* chores.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +267,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A5275E4C1AFEEE690052CD3B /* ViewController.swift in Sources */,
+				A5275E791AFF032A0052CD3B /* Coupons.swift in Sources */,
+				A5275E891AFFEEA00052CD3B /* Poems.swift in Sources */,
 				A5275E4A1AFEEE690052CD3B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -409,6 +465,7 @@
 				A5275E651AFEEE690052CD3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5275E661AFEEE690052CD3B /* Build configuration list for PBXNativeTarget "MOTHERTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +474,7 @@
 				A5275E681AFEEE690052CD3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
